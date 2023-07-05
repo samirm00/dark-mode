@@ -38,9 +38,9 @@ export const data = {
         'June',
         'July',
         'August',
-        'september',
+        'September',
         'October',
-        'november',
+        'November',
         'December',
     ],
 };
