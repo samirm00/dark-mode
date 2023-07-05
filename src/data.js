@@ -29,6 +29,20 @@ export const data = {
             text: `Selvage street art hammock affogato VHS. Mustache shaman literally wayfarers schlitz. Direct trade four loko narwhal VHS pop-up, chartreuse trust fund typewriter street art swag thundercats art party.`,
         },
     ],
+    months: [
+        'January',
+        'February',
+        'March',
+        'April',
+        'May',
+        'June',
+        'July',
+        'August',
+        'september',
+        'October',
+        'november',
+        'December',
+    ],
 };
 
 export const dom = {
